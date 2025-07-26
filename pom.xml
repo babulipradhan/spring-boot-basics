@@ -23,6 +23,7 @@
     </developers>
     <modules>
         <module>spring-boot-basics</module>
+        <module>kafka-spring-boot</module>
     </modules>
     <scm>
         <connection/>
